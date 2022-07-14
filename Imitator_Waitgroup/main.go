@@ -38,5 +38,5 @@ func main() {
 		go test(i, w)
 	}
 	w.Wait()
-	fmt.Println("Done")
+	fmt.Println("Don")
 }
